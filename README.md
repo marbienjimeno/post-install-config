@@ -184,3 +184,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 ![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/8b936ff6-8871-4ac1-9fd7-c2366b9a7d66)
+
+<p>
+  For the first new help topic, enter "Business Critical Outage". Click Add Topic. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/504ed8e6-8391-4c5e-8eb5-a495c3c11de1)
+
+
+

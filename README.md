@@ -189,7 +189,17 @@ This tutorial outlines the post-install configuration of the open-source help de
   For the first new help topic, enter "Business Critical Outage". Click Add Topic. 
 </p>
 
-![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/504ed8e6-8391-4c5e-8eb5-a495c3c11de1)
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/933c5fa5-2c26-4ea3-b347-818f76866cf8)
 
+<p>
+  For the second new help topic, enter "Personal Computer Issues". Click Add Topic. 
+</p>
 
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/25cb375b-bca1-46cb-a473-c52d1269702b)
+
+<p>
+  For the third new help topic, enter "Equipment Request". Click Add Topic. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/61a2ab8a-5d9f-4289-a1e4-48f838c53625)
 

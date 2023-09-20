@@ -67,4 +67,110 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   We will now configure the Teams in our osTicket system. In the Agents tab, go to Teams. Click Add New Team. 
 </p>
-<br />
+
+**Allow anyone to create tickets**
+<p>
+  Now we will configure osTicket so that anyone can create tickets, whether they have an account or not. In the Admin Panel, go to the Settings tab. Select Users. Under Authentication Settings, make sure the Registration Required field is left unchecked. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/f02d65e3-09d6-4e5e-82ea-9d75fdcbad42)
+
+**Configure Agents**
+<p>
+  Now we'll configure the Agents in our osTicket system. Agents are the helpdesk professionals that will respond to the tickets created. Go to the Agents tab and select Agents. Click Add New Agent.
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/b0968cb9-0b85-4554-8475-cf655c79d7fb)
+
+<p>
+  For the first new agent, we'll use the name "Jane Doe" and the email "jane.doe@osticket.com". For the username, we'll enter "jane.doe" and set the password to "Password1". Make sure to record the username and password for future reference. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/cbaac90c-240e-45b1-9ce1-4e3aaeed153e)
+
+<p>
+  Go to the Access tab. Under Primary Department, select System Administrators with a Supreme Admin role. Under Extended Access, add Support with a Supreme Admin role. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/6f817e96-df94-4777-a52c-0a38de474f1d)
+
+<p>
+  Go to the Teams tab and add Jane Doe to the Level II Support team. Click Create. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/7ada930e-dbfe-43d4-9fb9-4dbf55c99343)
+
+<p>
+  After successfully adding Jane doe as an agent, go back to Agents and click Add New Agent to add another agent. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/ba295408-25fe-4cc4-86da-1582534d96c2)
+
+<p>
+  For the second new agent, we'll give it the name "John Doe" and the email "john.doe@osticket.com". For username, we'll use "john.doe" and set the password as "Password1".
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/1d6a0a05-37a8-4e25-a26b-5d275be3cea9)
+
+<p>
+  Go to the Access tab. Under Primary Department, select Support with an All Access role. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/6c056e7b-9d90-459b-8d7c-9a5a38d86c56)
+
+<p>
+  Go to the Teams tab and add John Doe to the Level I Support team. Click Create. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/c7d2d76d-e2f8-4469-a0ce-70f3dffc5351)
+
+**Configure Users**
+<p>
+  Now we will configure the Users of our osTicket system. Users will create the tickets that agents respond to. Go to the Agents Panel and select the Users tab. Click Add User. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/fdea325a-b203-4485-b7f0-481edb7fc7f4)
+
+<p>
+  For the first new user, we'll enter the email address "karen@osticket.com" and the full name "Karen Kove". Click Add User. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/f97aa861-2699-4afc-b13a-3d3c4b6604aa)
+
+<p>
+  We will add another user. For the email address, we'll use "ken@osticket.com". For the full name, we'll use "Ken Kount". Click Add User.
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/13cc5305-0f1d-473b-8f99-f1277964859a)
+
+**Configure SLA**
+<p>
+  Now we will configure SLA's for our ostTicket system. SLA stands for "Service Level Agreement", and it provides a length of time in which tickets are expected to be closed. Go to the Admin panel and select the Manage tab. Select SLA. Click on Add New SLA Plan.
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/09384a2e-2947-4dce-851b-a43683e843d1)
+
+<p>
+  For the first new SLA, we'll name it SEV-A. For Grace Period, we'll put 1 hour. For Schedule, select 24/7. Click Add Plan. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/6a23e806-3cb3-4140-a5b0-f784cea3b48a)
+
+<p>
+  For the second new SLA, we'll name it SEV-B. For Grace Period, enter 4 hours. For Schedule, select 24/7. Click Add Plan. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/eb2e225f-7a58-4da6-9916-90b63ea0a85c)
+
+<p>
+  For the third new SLA, we'll name it SEV-C. For Grace Period, enter 8 hours. For Schedule, select Monday - Friday 8am - 5pm with U.S. Holidays. Click Add Plan. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/40088576-39cf-476a-9437-d638dbfe3dc9)
+
+**Configure Help Topics**
+<p>
+  Lastly, we will configure the Help Topics avaliable in our osTicket system. Help Topics help to streamline the ticket creation process for users. In the Manage tab, select Help Topics. Click on Add New Help Topic. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/8b936ff6-8871-4ac1-9fd7-c2366b9a7d66)

@@ -68,6 +68,14 @@ This tutorial outlines the post-install configuration of the open-source help de
   We will now configure the Teams in our osTicket system. In the Agents tab, go to Teams. Click Add New Team. 
 </p>
 
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/7be8ebe3-f904-4c7f-b372-42881aa8c31a)
+
+<p>
+  For the name of the new team, enter Level II Support. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/2d6cfc5b-fbb8-4fd1-b9f5-0acaa97a3688)
+
 **Allow anyone to create tickets**
 <p>
   Now we will configure osTicket so that anyone can create tickets, whether they have an account or not. In the Admin Panel, go to the Settings tab. Select Users. Under Authentication Settings, make sure the Registration Required field is left unchecked. 

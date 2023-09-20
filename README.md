@@ -71,10 +71,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/7be8ebe3-f904-4c7f-b372-42881aa8c31a)
 
 <p>
-  For the name of the new team, enter Level II Support. 
+  For the name of the new team, enter Level II Support. Go to the Members tab and add yourself to the Level II Support team. Click Create Team. 
 </p>
 
 ![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/2d6cfc5b-fbb8-4fd1-b9f5-0acaa97a3688)
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/4ad159a1-700e-4b64-8573-dc816730b536)
 
 **Allow anyone to create tickets**
 <p>

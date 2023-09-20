@@ -203,3 +203,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/61a2ab8a-5d9f-4289-a1e4-48f838c53625)
 
+<p>
+  For the last new help topic, enter "Password Reset". Click Add Topic. 
+</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/2237cbbe-e33a-43f8-9edc-30ed95e6c72a)

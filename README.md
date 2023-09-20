@@ -27,26 +27,44 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+**Configure Roles**
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  We'll begin by configuring additional roles in os Ticket. Go to the Admin Panel. Go to the Agents tab and select Roles. Click Add New Role. 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/4cd005b7-441c-4f48-ab92-adcd8e0b1558)
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  We'll name the new role "Supreme Admin". Go to Permissions and give this role all the available permissions. Click Add Role.
 </p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/5bdb3441-4f92-4233-9aec-cb9940bb154e)
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/85ff22f6-209c-41bf-8ff3-d34f2e0be6b1)
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/d3d53ac3-461f-4823-bc87-b50f5042c9e7)
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/7b80be09-f2b0-402b-9c21-088a8bd2476e)
+
+**Configure Departments**
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Now we will configure additional Departments. In the Agents tab, select Departments. Click Add New Department.
 </p>
-<br />
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/c5308a0c-e381-4eb7-aad6-43278a6f6bf1)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  We'll name the new department "System Administrators" and keep the other default settings. Click Create Dept.
 </p>
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/2c6161f7-7eb2-44fc-985b-4cda3d41f8dd)
+
+![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/63dae9c8-6533-4751-9bdb-9dbc8c6ae3b2)
+
+**Configure Teams**
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  We will now configure the Teams in our osTicket system. In the Agents tab, go to Teams. Click Add New Team. 
 </p>
 <br />

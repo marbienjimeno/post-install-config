@@ -208,3 +208,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 ![image](https://github.com/marbienjimeno/post-install-config/assets/29347863/2237cbbe-e33a-43f8-9edc-30ed95e6c72a)
+
+**Conclusion**
+<p>
+  We have successfully performed the post-installation configuration of our osTicket system. In the next section, we will follow the lifecycle of tickets, starting from the intake of the tickets to their resolution using the osTicket system.
+</p>
